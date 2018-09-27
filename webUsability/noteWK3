@@ -1,11 +1,13 @@
 Overall
 1_user persona_is an archetype or character that represents a potential user of your website or app
 2_scenario_is a situation that captures how users perform tasks on your site or app
-3_storyboard_is a visual representation of how the user would react with your site or app.
+3_storyboard_is a visual representation to teams of how the user would react with your site or app.
 1+2+3 will help you to identify key information about your users and build products that will delight your target users 
 
+
+
 Persona
-Pros:
+Aims:
 - a boost in clarity, productivity and success
 - enables the designer to focus on a manageable and memorable cast of different kinds of characters, deeply understanding users, prioritize which users are more important
 - Build empathy, Develop focus, Communicate and form consensus, Make and defend decisions, Measure effectiveness
@@ -13,11 +15,19 @@ What:
 - a way to model, summarize and communicate research about people who have been observed or researched in some way.
 - is synthesized from observations of many people, designers design for people unlike themselves,
 - are implemented in conjunction with other processes, concepts and methods that support and augment their use
-- goal-directed design >> user-centered design
+- goal-directed design
 /*
-Goal-directed design- address business needs, technological requirements (and limitations) and user goals
-img:https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a58e669-2ab0-4759-8cdd-d7d4d3fd7a30/04-running-persona-opt-500.jpg
+Goal-directed design (GDD)
+- is a comprehensive design approach that emphasizes the guide of design
+- address business needs, technological requirements (and limitations) and user goals
+
+User-centered design(UCD)
+- is put user first and meets the needs of users for the ultimate goal
 */
+
+img:https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a58e669-2ab0-4759-8cdd-d7d4d3fd7a30/04-running-persona-opt-500.jpg
+
+
 Elements in persona:
 -goal, day in the life
 How to Create:
@@ -27,4 +37,5 @@ Narrative practice + Long-term memory + Concrete thinking + Theory of mind + Emp
 
 
 Storyboard
-using a story for pitching an idea to a set of peers, illustrated by something that everyone could see and relate to.
+Aims:
+- communicate design ideas to teams by using a story, illustrated by something that everyone could see and relate to.
