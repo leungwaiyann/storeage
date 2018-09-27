@@ -1,8 +1,16 @@
 <--Overall-->
-1_user persona_is an archetype or character that represents a potential user of your website or app
-2_scenario_is a situation that captures how users perform tasks on your site or app
-3_storyboard_is a visual representation to teams of how the user would react with your site or app.
+***1_user persona_is an archetype or character that represents a potential user of your website or app
+***2_scenario_is a situation that captures how users perform tasks on your site or app
+***3_storyboard_is a visual representation to teams of how the user would react with your site or app.
 1+2+3 will help you to identify key information about your users and build products that will delight your target users 
+
+The Essentials of Interaction Design by Alan Cooper:
+-Research users and the problem domain
+-Model users and product context: Create user personas, persona-based scenarios
+-Define the user, business, and technical requirements
+-Define a design structure and flow or design framework
+-Refine behaviors, form, and content
+-Support development needs
 
 <--Persona-->
 Aims:
@@ -14,15 +22,14 @@ What:
 - is synthesized from observations of many people, designers design for people unlike themselves,
 - are implemented in conjunction with other processes, concepts and methods that support and augment their use
 - goal-directed design
-/*
+/************************
 Goal-directed design (GDD)
 - is a comprehensive design approach that emphasizes the guide of design
 - address business needs, technological requirements (and limitations) and user goals
 
 User-centered design(UCD)
 - is put user first and meets the needs of users for the ultimate goal
-
-*/
+**************************/
 img:https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a58e669-2ab0-4759-8cdd-d7d4d3fd7a30/04-running-persona-opt-500.jpg
 
 Elements in persona:
